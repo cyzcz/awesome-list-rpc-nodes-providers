@@ -333,6 +333,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 1. GetBlock - [https://getblock.io/nodes/algo/](https://getblock.io/nodes/algo/)
 2. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 3. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+4. Chain.Love - [https://chain.love/algorand/apis](https://chain.love/algorand/apis) ([GitHub](https://github.com/Chain-Love/chain-love))
 
 **Spin up your own node:**
 
@@ -486,6 +487,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 1. GetBlock - [https://getblock.io/nodes/fuse/](https://getblock.io/nodes/fuse/)
 2. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 3. OnFinality - [https://onfinality.io/](https://onfinality.io/)
+4. Chain.Love - [https://chain.love/fuse/apis](https://chain.love/fuse/apis) ([GitHub](https://github.com/Chain-Love/chain-love))
 
 **Public Endpoints:**
 - [https://fuse-rpc.gateway.pokt.network/](https://fuse-rpc.gateway.pokt.network/)
@@ -808,6 +810,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **Providers:**
 
 1. Chainstack - [https://chainstack.com/build-better-with-filecoin/](https://chainstack.com/build-better-with-filecoin/)
+2. Chain.Love - [https://chain.love/filecoin/apis](https://chain.love/filecoin/apis) ([GitHub](https://github.com/Chain-Love/chain-love))
 
 ## Oasis Sapphire
 
